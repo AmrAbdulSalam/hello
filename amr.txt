@@ -6,9 +6,10 @@ my name is amr
 ttttt
 eeeeeeeeeeeeeeeeest
 
-<<<<<<< HEAD
+
 wateeee nmnmnm!!! 
-=======
+
 wateeee ootk !!!
->>>>>>> 9c36e21d8dd0d0156a0838cf41f0089cb2fd65e1
 b3den ya shabab
+
+wateeee so !!! hi
